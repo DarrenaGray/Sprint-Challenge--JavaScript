@@ -39,7 +39,7 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explanation: 
 
-//  `nestedFunction can access `internal` because it is nested/enclosed within the scope of the function.
+//  `nestedFunction can access `internal` because it is nested/enclosed within the scope of the nested functions.
 
 
 const external = "I'm outside the function";
